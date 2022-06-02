@@ -1,0 +1,58 @@
+html {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "helvetica neue", sans-serif;
+  padding: 0;
+  margin: 0;
+
+}
+
+body {
+	background-image: url("saudi2.jpg");
+	background-size: 1910px 1910px;
+	margin: 0;
+	padding: 0;
+	font-family: "helvetica neue", sans-serif;
+	margin: 0;
+
+
+}
+.nav {
+	background-color: black;
+	color: #ffffff;
+	list-style: none;
+	text-align: center;
+	padding: 20px 0 20px 0;
+	margin: 0;
+
+}
+
+.nav > li{
+	display: inline-block;
+	padding-right: 50px;
+
+}
+
+.nav > li > a:hover {
+	color: #c1c1c1;
+	
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.Location {
+	margin-left: 100px;
+	width: 300px;
+	height: 300px;
+	padding-left: 30px;
+
+}
+
+.Location {
+	background-color: white;
+}
